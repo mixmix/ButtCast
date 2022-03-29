@@ -1,0 +1,10 @@
+{
+  "scripts": [],
+  "assets": [
+    "node_modules/node-gyp-build",
+    "node_modules/leveldown",
+    "node_modules/sodium-native"
+  ],
+  "targets": [ "node14-linux-x64" ],
+  "outputPath": "dist"
+}
